@@ -1,0 +1,10 @@
+google-generativeai
+openai==0.28
+meteostat
+python-dotenv
+streamlit
+tensorflow
+audio-recorder-streamlit
+openai
+gtts
+streamlit-components
